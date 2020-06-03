@@ -1,1 +1,1 @@
-# spiral-slice
+# spiral-matrix
